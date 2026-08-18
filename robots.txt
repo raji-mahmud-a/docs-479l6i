@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-8u9tki.koi888win.online/sitemap.xml
